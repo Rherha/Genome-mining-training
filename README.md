@@ -31,19 +31,6 @@ I'm working through the Galaxy Training Network's secondary metabolite discovery
 - Reading antiSMASH outputs—honestly, this took a while to make sense of!
 - Comparing predictions against known BGCs in MIBiG database
 
-### **Scripting & Automation**
-- Using Jupyter notebooks within Galaxy to process data
-- Writing small Python scripts to connect different tools
-- Building workflows so I can reuse the pipeline
-
-### **Cheminformatics (The Chemistry Part)**
-- Converting predicted structures into formats for chemical analysis
-- Molecular fingerprinting—basically creating "signatures" for each compound
-- Comparing predicted molecules to known natural products
-- Checking if predictions look like drug-like molecules (Lipinski's rules, etc.)
-- Assessing novelty—are these predictions actually new?
-
----
 
 ## My Background
 
@@ -64,7 +51,6 @@ Traditional natural product isolation is:
 - **Galaxy Platform** (usegalaxy.eu) - web-based workflow builder
 - **antiSMASH** - the main BGC prediction tool
 - **FastQC** - sequence quality checking
-- **Various cheminformatics tools** - for molecular analysis
 - **JupyTool/Jupyter** - for custom Python scripts
 
 Everything runs in a web browser. No need to install complex software or have a powerful computer—just need internet access.
@@ -88,11 +74,6 @@ I'm organizing my learning materials here:
 - Can now download a genome, run it through antiSMASH, and interpret the results
 - Understand what different BGC types mean biologically
 - Can assess whether a prediction is novel or already known
-
-### ✅ Completed: Cheminformatics Integration  
-- Learned how to evaluate drug-likeness of predicted compounds
-- Can compare predictions against databases of known molecules
-- Understanding novelty scoring
 
 ### 🔄 Currently Working On
 - Analyzing genomes of endophytic bacteria from medicinal plants
