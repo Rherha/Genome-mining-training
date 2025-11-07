@@ -17,7 +17,7 @@ Downloaded complete genome in GenBank format from NCBI.
 - **Date:** November 2025
 
 **Parameters:**
-```
+
 Taxon: Bacteria
 All detection modules enabled:
 - KnownClusterBlast ✓
@@ -26,7 +26,7 @@ All detection modules enabled:
 - ActiveSiteFinder ✓
 - RREFinder ✓
 - CompaRiPPson ✓
-```
+
 
 ### Step 3: Data Extraction
 - Downloaded HTML output
