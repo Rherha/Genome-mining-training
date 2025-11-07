@@ -183,5 +183,5 @@ My thesis showed endophytes from *Mitracarpus scaber* have antifungal activity (
 
 **Aishat Faderera Akere**  
 Bayero University, Kano, Nigeria  
-[akereaishat8@gmail.com](mailto:akereaishat8@gmai.com)
+[Email](mailto:akereaishat8@gmai.com)
 [LinkedIn](www.linkedin.com/in/aishaakre)
