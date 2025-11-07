@@ -83,7 +83,7 @@ This project is my journey learning genome mining—using computational tools to
 
 ## 📊 All 27 BGCs Overview
 
-![Overview](results/screenshots/Genome_Overview.png)
+![Overview](results/screenshots/Genome1_overview.png)
 
 **Complete breakdown:**
 
