@@ -50,4 +50,3 @@ Cross-referenced findings with:
 - Galaxy platform
 - LibreOffice Calc
 - Reference managers
-```
