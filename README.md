@@ -49,7 +49,7 @@ This project is my journey learning genome mining—using computational tools to
 
 **Why interesting:** CDA antibiotics disrupt fungal membranes using calcium. This cluster is highly similar to known antifungals, making it the most reliable candidate.
 
-![Region 10](results/screenshots/Region10_Overview.png)
+![Region 10](results/screenshots/)
 
 ---
 
