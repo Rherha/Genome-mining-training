@@ -77,7 +77,7 @@ This project is my journey learning genome mining—using computational tools to
 
 **Why practical:** Small cluster (8.2 kb) makes this easiest to validate experimentally. Lanthipeptides are stable, easy to express, and some have antifungal properties.
 
-![Region 5](results/screenshots/genome1_region5.png.png)
+![Region 5](results/screenshots/genome1_region5.png)
 
 ---
 
