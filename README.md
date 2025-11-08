@@ -94,7 +94,7 @@ This project is my journey learning genome mining—using computational tools to
 - **Lanthipeptides:** 3 (including 2 novel)
 - **Other:** 7
 
-**Download complete data:** [All_BGCs_Complete.csv](results/tables/All_BGCs_Complete.csv)
+**Download complete data:** [All_BGCs_Complete.csv](results/tables/All_BGCs_complte.csv)
 
 ---
 
